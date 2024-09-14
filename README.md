@@ -20,7 +20,7 @@
     'dbname': 'your_database_name',
     'user': 'your_username',
     'password': 'your_password',
-    'host': 'localhost'  # or your database host
+    'host': 'localhost'
    }
 
 ### 2. Run the Script
